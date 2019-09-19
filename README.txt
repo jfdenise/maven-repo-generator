@@ -1,3 +1,6 @@
+Generate a zipped maven repository from an offliner file.
+WARNING: When running the tool, an http server is started on port 7777
+
 Build
 mvn package
 
